@@ -15,10 +15,4 @@
     <ProjectReference Include="..\Uplink.Redshirt\Uplink.Redshirt.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <None Update="data.enc.dat">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </None>
-  </ItemGroup>
-
 </Project>
